@@ -1,4 +1,4 @@
-# Dissertation on Deep Learning Models for Online Retail Sales Forecasting
+# Deep Learning Models for Online Retail Sales Forecasting
 
 ## Intro
 
